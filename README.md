@@ -1,5 +1,5 @@
-# Windows Command-Line Timer
-A command-line timer for Windows that uses its notification system
+# Command-Line Timer
+A command-line timer that displays via notifications
 * Implemented in Java.
 
 ## Installation
