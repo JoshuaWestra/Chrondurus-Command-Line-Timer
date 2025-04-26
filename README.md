@@ -15,5 +15,5 @@ In "Run" or a terminal:
 timer [duration] [time unit]
 ```
 
-* Duration must be an integer
+* Duration and Time Unit must be integers
 * Time Units: hour, minute, second
