@@ -1,5 +1,5 @@
 # Chrondurus Command-Line Timer
-A command-line timer that displays via notifications
+A desktop command-line timer via notifications. (Should work in any operating system.)
 * Implemented in Java.
 
 ## Installation
