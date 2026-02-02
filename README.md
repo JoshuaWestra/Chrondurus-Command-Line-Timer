@@ -9,7 +9,7 @@ A desktop command-line timer via notifications. (Should work in any operating sy
 3. Download and unzip [this](https://github.com/JoshuaWestra/Chrondurus-Command-Line-Timer) repository
 
 ## Usage
-In "Run" or a terminal:
+In a terminal:
 
 ```
 timer [duration] [time unit]
